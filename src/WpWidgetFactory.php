@@ -22,7 +22,6 @@ use Devaloka\Provider\EventListenerProviderInterface;
  * Class WpWidgetFactory
  *
  * @package Devaloka\WordPress
- * @author Whizark
  */
 class WpWidgetFactory extends WP_Widget_Factory implements ContainerAwareInterface
 {

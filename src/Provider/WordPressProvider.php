@@ -27,7 +27,6 @@ use Devaloka\Provider\BootableProviderInterface;
  * Class WordPressProvider
  *
  * @package Devaloka\WordPress\Provider
- * @author Whizark
  */
 class WordPressProvider implements ServiceProviderInterface, BootableProviderInterface
 {
