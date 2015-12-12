@@ -106,7 +106,7 @@ class WordPressProvider implements ServiceProviderInterface, BootableProviderInt
                     return $GLOBALS['wp_widget_factory'];
                 }
 
-                $wpWidgetFactory = new $container['wp_widget_factory.class'];
+                $wpWidgetFactory = new $container['wp_widget_factory.class']();
 
                 if ($wpWidgetFactory instanceof ContainerAwareInterface) {
                     $wpWidgetFactory->setContainer($container['container']);
