@@ -22,6 +22,3 @@ events.)
     ```sh
     composer require devaloka/devaloka-wp
     ```
-
-2.  Move `loader/10-devaloka-wp-loader.php` into
-    `<ABSPATH>wp-content/mu-plugins/`.
