@@ -2,7 +2,7 @@
 /*
 Plugin Name: Devaloka WP
 Description: Provides WordPress objects as services
-Version: 0.5.0
+Version: 0.5.1
 Author: Whizark
 Author URI: http://whizark.com
 License: GPL-2.0+
