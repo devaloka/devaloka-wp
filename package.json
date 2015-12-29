@@ -1,6 +1,6 @@
 {
     "name"           : "devaloka-wp",
-    "version"        : "0.5.1",
+    "version"        : "0.5.2",
     "description"    : "Provides WordPress objects as services",
     "keywords"       : [
         "wordpress",
