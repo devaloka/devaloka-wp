@@ -1,4 +1,4 @@
-# Devaloka WP [![Build Status](https://travis-ci.org/devaloka/devaloka-wp.svg?branch=master)](https://travis-ci.org/devaloka/devaloka-wp) [![Packagist](https://img.shields.io/packagist/v/devaloka/devaloka-wp.svg)](https://packagist.org/packages/devaloka/devaloka-wp)
+# Devaloka WP [![Build Status][travis-image]][travis-url] [![Packagist][packagist-image]][packagist-url]
 
 A WordPress plugin that provides WordPress objects as services via DI Container.
 
@@ -22,3 +22,9 @@ events.)
     ```sh
     composer require devaloka/devaloka-wp
     ```
+
+[travis-image]: https://travis-ci.org/devaloka/devaloka-wp.svg?branch=master
+[travis-url]: https://travis-ci.org/devaloka/devaloka-wp
+
+[packagist-image]: https://img.shields.io/packagist/v/devaloka/devaloka-wp.svg
+[packagist-url]: https://packagist.org/packages/devaloka/devaloka-wp
