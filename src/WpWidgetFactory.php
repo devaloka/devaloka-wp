@@ -14,8 +14,8 @@ namespace Devaloka\WordPress;
 
 use ReflectionClass;
 use WP_Widget_Factory;
-use Devaloka\DependencyInjection\ContainerAwareTrait;
-use Devaloka\DependencyInjection\ContainerAwareInterface;
+use Devaloka\Component\DependencyInjection\ContainerAwareTrait;
+use Devaloka\Component\DependencyInjection\ContainerAwareInterface;
 use Devaloka\Provider\EventListenerProviderInterface;
 
 /**
